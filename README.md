@@ -92,6 +92,7 @@ cd voice-ai-agent-project
 
 ```
 python -m venv venv
+py -3.11 -m venv venv
 ```
 
 Activate environment
