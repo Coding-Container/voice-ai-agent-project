@@ -119,7 +119,10 @@ pip install -r requirements.txt
 If microphone libraries fail on Windows install manually
 
 ```
-pip install SpeechRecognition pyttsx3 pyaudio langdetect
+pip install SpeechRecognition pyttsx3 pyaudio langdetect fastapi uvicorn requests
+
+
+
 ```
 
 ---
