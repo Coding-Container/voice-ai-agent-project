@@ -82,6 +82,7 @@ voice-ai-agent-project
 
 ```
 git clone https://github.com/Coding-Container/voice-ai-agent-project
+
 cd voice-ai-agent-project
 ```
 
@@ -177,7 +178,7 @@ The voice assistant workflow:
 
 ---
 
-#  Running the Voice Assistant
+# Running the Voice Assistant
 
 Make sure the backend server is already running.
 
@@ -204,7 +205,7 @@ AI: Appointment cancelled
 
 ---
 
-#  System Workflow
+# System Workflow
 
 ```
 User Voice / Text
@@ -225,9 +226,9 @@ Scheduler & Database
 Response Returned to User
 ```
 
----
+## ![alt text](voice_ai_architecture-1.png)
 
-#  Example API Response
+# Example API Response
 
 ```
 {
