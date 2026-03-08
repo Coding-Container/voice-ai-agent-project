@@ -225,6 +225,8 @@ Scheduler & Database
         ▼
 Response Returned to User
 ```
+<img width="2406" height="1446" alt="voice_ai_architecture" src="https://github.com/user-attachments/assets/7c295a5f-6c2c-4e68-9f36-83263002fe4c" />
+
 
 ## ![alt text](voice_ai_architecture-1.png)
 
