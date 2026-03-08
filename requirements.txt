@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+openai
+whisper
+torch
+langdetect
+pydantic
+python-dotenv
+numpy
+sounddevice
+scipy
+pyttsx3
